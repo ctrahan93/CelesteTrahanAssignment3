@@ -1,0 +1,12 @@
+C:\Users\Celeste\CelesteTrahanChat\Shared\bin\Debug\net6.0\CelesteTrahanChat.Shared.deps.json
+C:\Users\Celeste\CelesteTrahanChat\Shared\bin\Debug\net6.0\CelesteTrahanChat.Shared.dll
+C:\Users\Celeste\CelesteTrahanChat\Shared\bin\Debug\net6.0\CelesteTrahanChat.Shared.pdb
+C:\Users\Celeste\CelesteTrahanChat\Shared\obj\Debug\net6.0\CelesteTrahanChat.Shared.csproj.AssemblyReference.cache
+C:\Users\Celeste\CelesteTrahanChat\Shared\obj\Debug\net6.0\CelesteTrahanChat.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Celeste\CelesteTrahanChat\Shared\obj\Debug\net6.0\CelesteTrahanChat.Shared.AssemblyInfoInputs.cache
+C:\Users\Celeste\CelesteTrahanChat\Shared\obj\Debug\net6.0\CelesteTrahanChat.Shared.AssemblyInfo.cs
+C:\Users\Celeste\CelesteTrahanChat\Shared\obj\Debug\net6.0\CelesteTrahanChat.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Celeste\CelesteTrahanChat\Shared\obj\Debug\net6.0\CelesteTrahanChat.Shared.dll
+C:\Users\Celeste\CelesteTrahanChat\Shared\obj\Debug\net6.0\refint\CelesteTrahanChat.Shared.dll
+C:\Users\Celeste\CelesteTrahanChat\Shared\obj\Debug\net6.0\CelesteTrahanChat.Shared.pdb
+C:\Users\Celeste\CelesteTrahanChat\Shared\obj\Debug\net6.0\ref\CelesteTrahanChat.Shared.dll
